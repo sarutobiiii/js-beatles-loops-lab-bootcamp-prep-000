@@ -19,11 +19,11 @@
 }
 
  function iLoveTheBeatles(num) {
-    var love = [];
+    var things = [];
     do {
-        love.push("I love the Beatles!");
+        things.push("I love the Beatles!");
         num++;
     } while (num < 15);
 
-     return love;
+     return things;
 }
